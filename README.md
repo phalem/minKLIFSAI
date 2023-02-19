@@ -5,7 +5,7 @@ To start the app download the repo and extract the files in the folder write:
 
 `pip install -r requirements.txt`
 
-This was the initial step toward providing a model for every kinase as a tool toward selective kinase inhibitor.
+This was the initial step toward providing a model for every kinase as a tool to discover selective kinase inhibitor.
 
 Repo is a streamlit app that can be used to make a virtual screen for chemical data to predict kinase activity of 480 target id according to Uniprot.
 Data model trained on the data from PubChem. 1920 prediction was produced, you can customize the prediction that you want by choosing target you want from sidebar menu and upload the data
