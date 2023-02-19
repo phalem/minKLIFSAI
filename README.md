@@ -20,3 +20,11 @@ or research who want to provide a cancer treatment for free.
 Metric of each target model found in the paper.
 
 Target name will found in the file: `id2name.json` file
+
+
+Project are open for contribution, if you want to contribute:
+1- Develop a model better than provided
+2- Rename it like the model you want to replace
+3- Add metric that prove the result like AUC or ROC plot or a reference for a paper and data used if possible.
+4- Write you licence either want to be open source, MIT, copyrighted whatever. The default licence here is a non-commercial use.
+5- Push it.
