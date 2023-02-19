@@ -2,6 +2,7 @@
 minimum KLIFSAI (a machine learning model to predict Kinase activity)
 
 To start the app download the repo and extract the files in the folder write:
+
 `pip install -r requirements.txt`
 
 This was the initial step toward providing a model for every kinase as a tool toward selective kinase inhibitor.
