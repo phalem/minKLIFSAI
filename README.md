@@ -31,5 +31,3 @@ Project are open for contribution, if you want to contribute:
 3- Add metric that prove the result like AUC or ROC plot or a reference for a paper and data used if possible.
 
 4- Write you licence either want to be open source, MIT, copyrighted whatever. The default licence here is a non-commercial use.
-
-5- Push it.
