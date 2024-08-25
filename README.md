@@ -6,6 +6,7 @@ To start the app download the repo and extract the files in the folder write:
 `pip install -r requirements.txt`
 
 then run:
+
 `streamlit run 1_virtual_screen.py`
 
 This was the initial step toward providing a model for every kinase as a tool to discover selective kinase inhibitor.
