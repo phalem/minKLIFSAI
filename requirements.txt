@@ -1,0 +1,12 @@
+rdkit
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.1
+Pillow==9.2.0
+streamlit==1.11.1
+tqdm==4.63.0
+matplotlib
+base64
+pickle
+json
+
