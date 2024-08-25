@@ -5,6 +5,9 @@ To start the app download the repo and extract the files in the folder write:
 
 `pip install -r requirements.txt`
 
+then run:
+`streamlit run 1_virtual_screen.py`
+
 This was the initial step toward providing a model for every kinase as a tool to discover selective kinase inhibitor.
 
 Repo is a streamlit app that can be used to make a virtual screen for chemical data to predict kinase activity of 480 target id according to Uniprot.
