@@ -36,6 +36,9 @@ Project are open for contribution, if you want to contribute:
 
 4- Write you licence either want to be open source, MIT, copyrighted whatever. The default licence here is a MIT.
 
-If you used this tools, please cite:
+
+If you used this tool, please cite:
+
 [1] 1. Abd Elaleem M. Src kinase app: valid inhibitor generation and prediction with explanation using predictive model and selfies. ChemRxiv. 2022; doi:10.26434/chemrxiv-2022-090pf-v2
+
 [2] 10.5281/zenodo.13370507
