@@ -41,4 +41,4 @@ If you used this tool, please cite:
 
 [1] 1. Abd Elaleem M. Src kinase app: valid inhibitor generation and prediction with explanation using predictive model and selfies. ChemRxiv. 2022; doi:10.26434/chemrxiv-2022-090pf-v2
 
-[2] 10.5281/zenodo.13370507
+[2] [10.5281/zenodo.13370507](https://zenodo.org/records/13370507).
