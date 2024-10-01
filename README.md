@@ -1,5 +1,7 @@
 # minKLIFSAI
 minimum KLIFSAI (a machine learning model to predict Kinase activity)
+This the app and result model found in this paper: 
+https://doi.org/10.26434/chemrxiv-2024-g10ch
 
 To start the app download the repo and extract the files in the folder write:
 
